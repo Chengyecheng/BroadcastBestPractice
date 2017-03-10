@@ -5,4 +5,5 @@ package com.example.broadcastbestpractice;
  */
 
 public class TestGit {
+    private static final String TAG = "TestGit";
 }
